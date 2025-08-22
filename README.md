@@ -7,3 +7,4 @@ Bu layihə "Online Retail" datasetini istifadə edərək RFM (Recency, Frequency
 - Müştəri seqmentlərini RFM metodologiyası ilə müəyyən etmək
 - Analizi vizuallaşdırmaq və interaktiv qrafik yaratmaq
 - Data Science bacarıqlarını nümayiş etdirmək
+<img width="1101" height="360" alt="newplot" src="https://github.com/user-attachments/assets/0db90a1e-9d64-4241-8aca-bc3c6c201e99" />
